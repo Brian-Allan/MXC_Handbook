@@ -110,6 +110,11 @@ It comes largely from early investors and on-going buy-backs from the non-profit
 *"As a result of this vision, the mining funds come from two key areas, early investors, who realize the need to sustain a robust new-age global data network, and from the MXC buy-back, which up until 2019 had raised close to $12 million in buy-backs and will continue to raise more buy-back rounds in order to recover $MXC, which the team believes is currently severely under-priced."* [(source)](https://medium.com/mxc/m2-pro-miner-faq-c6b4e8e60ab9)
 
 
+## Can I get an earnings report of my miner, to see the daily MXC earnings for tax and other reasons?
+
+Yes, in the DataDash app, in the Settings menu (click the cogwheel icon in the upper right corner of the Home screen), choose "Export Mining Data" and this will give you the option to download the daily earnings.  Currently, only MXC is enabled (but the DHX and BTC earnings should be available in the future).
+
+
 ## What is Miner Health?
 ***Miner Health*** is the way to keep track of your M2 Pro miner's optimal MXC earning potential, in the DataDash app. Currently, by just keeping your M2 Pro:
 
